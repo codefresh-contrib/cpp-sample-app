@@ -1,4 +1,4 @@
-FROM debian:stable-slim
+FROM gcc:9.2
 
 ENV DEBIAN_FRONTEND noninteractive
 
